@@ -1,0 +1,24 @@
+{
+  "name": "eleventy-lab",
+  "version": "1.0.0",
+  "description": "ok, fresh eleventy from ipad safari",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djinna/eleventy-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/djinna/eleventy-lab/issues"
+  },
+  "homepage": "https://github.com/djinna/eleventy-lab#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
